@@ -1,1 +1,13 @@
-aaaaaaaa
+#!/usr/bin/python3
+#SPDX-FileCopyrightText: 2022 Yuki Izawa
+import sys
+
+ans = 0 #もともと０．０だったのを０に変更
+for line in sys.stdin:
+    try:
+        ans += int(line)
+    except:
+        ans += float(line)
+
+print(ans)
+>>>>>>> dev
