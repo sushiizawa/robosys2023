@@ -12,7 +12,9 @@ res=0
 ### I/0 test ###
 out=$(seq 5 | ./plus)
 
-[ "${out}" = 15 ] || ng ${LINENO}
+[ "${out}" = 14 ] || ng ${LINENO}
 [ "$res" = 0 ] && echo OK
 
 exit $res
+
+
