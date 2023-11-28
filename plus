@@ -15,4 +15,4 @@ for line in sys.stdin:
         ans += float(line)
         ans_s *= float(line)
 
-print("Sum:", ans, ",multiplication:", ans_s)
+print(" Sum:", ans, ",Multiplication:", ans_s)
