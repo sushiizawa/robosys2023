@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-#SPDX-FileCopyrightText: 2023 Yuki Izawa
+#SPDX-FileCopyrightText: 2023 sushi Izawa
 # SPDX-License-Identifier: BSD-3-Clause
 import sys
 
-ans = 0 #もともと０．０だったのを０に変更
+ans = 0 
 ans_s = 1
 
 for line in sys.stdin:
@@ -16,3 +16,6 @@ for line in sys.stdin:
         ans_s *= float(line)
 
 print(" Sum:", ans, ",Multiplication:", ans_s)
+
+
+
