@@ -14,5 +14,5 @@ for line in sys.stdin:
     except:
         ans += float(line)
         ans_s *= float(line)
-print("Sum:",ans)
-print("multiplication:",ans_s)
+print("Sum:", ans)
+print("multiplication:", ans_s)
