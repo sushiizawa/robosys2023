@@ -12,7 +12,7 @@ res=0
 ### I/0 test ###
 out=$(seq 5 | ./plus)
 
-[ "${out}" = "Sum: 15\nMultiplication: 120" ] || ng ${LINENO}
+[ "${out}" = "Sum: 15\nMultiplication: 120"] || ng ${LINENO}
 [ "$res" = 0 ] && echo OK
 
 exit $res
