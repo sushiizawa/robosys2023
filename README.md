@@ -26,6 +26,9 @@ Sum: 6 ,Multiplication: 6
 ## テスト環境　
 * Ubuntu 20.04
 
+## 注意点
+* macでの動作確認はしていません.
+
 ## 著者
 * 2023　sushi Izawa
 * 連絡先：s22c1008wq@s.chibakoudai.jp 
