@@ -1,13 +1,19 @@
 #!/usr/bin/python3
-#SPDX-FileCopyrightText: 2022 Yuki Izawa
+#SPDX-FileCopyrightText: 2023 Yuki Izawa
+# SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0 #もともと０．０だったのを０に変更
-
+ans_s = 1
+ans_k = 
 for line in sys.stdin:
     try:
         ans += int(line)
+        ans_s *= int(line)
+        
     except:
         ans += float(line)
+        ans_s *= float(line)
 
-print(ans)
+print("Sum:", ans)
+print("multiplication:", ans_s)
