@@ -1,5 +1,11 @@
 # robosys2023
-* ロボットシステム学の練習用コードが入ったリポジトリです.
+* ロボットシステム学の課題として提出するコードの入ったリポジトリです.
+
+## 導入方法 ##
+* 下記コマンドを実行してください.
+```
+git clone https://github.com/sushiizawa/robosys2023.git
+```
 
 ## plusコマンド ##
 [![test](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml)
@@ -8,12 +14,6 @@
 ```
 seq 3 | ./plus
 Sum: 6 ,Multiplication: 6
-```
-
-## 導入方法 ##
-* 下記コマンドを実行してください.
-```
-git clone https://github.com/sushiizawa/robosys2023.git
 ```
 
 ## test.bash ##
