@@ -1,7 +1,7 @@
 # robosys2023
 * このソフトウェアパッケージは，３条項BSDライセンスの下，再頒布及び使用が許可されます.
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としました．
-      * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+      * [ryuichiueda/my_slides robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ## plusコマンド ##
 [![test](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml)
