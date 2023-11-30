@@ -30,4 +30,4 @@ Sum: 6 ,Multiplication: 6
  * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 ## 著者 ##
 * © 2023　sushi Izawa
-* 連絡先：[Gmail](s22c1008wq@s.chibakoudai.jp) 
+* 連絡先: s22c1008wq@s.chibakoudai.jp 
