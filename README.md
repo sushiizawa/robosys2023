@@ -1,7 +1,5 @@
 # robosys2023
-* このソフトウェアパッケージは，３条項BSDライセンスの下，再頒布及び使用が許可されます.
-* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としました．
-      * [ryuichiueda/my_slides robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* ロボットシステム学の練習用コードが入ったリポジトリです.
 
 ## plusコマンド ##
 [![test](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml)
@@ -43,8 +41,10 @@ NG at Line 15
 * macでの動作確認はしていません.
 
 ## LICENSE
-* [LICENSE](https://github.com/sushiizawa/robosys2023/blob/main/LICENSE)
-
+* このソフトウェアパッケージは，３条項BSDライセンスの下，再頒布及び使用が許可されます.
+* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としました．
+      * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+  
 ## 著者
-© 2023　sushi Izawa
+* © 2023　sushi Izawa
 * 連絡先：s22c1008wq@s.chibakoudai.jp 
