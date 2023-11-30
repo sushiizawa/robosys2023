@@ -7,16 +7,16 @@
 ## plusコマンド ##
 [![test](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/sushiizawa/robosys2023/actions/workflows/test.yml)
 * 標準入力から読み込んだ数字を加算，乗算します.
-
-* 導入方法
-下記コマンドを実行してください.
-```
-git clone https://github.com/sushiizawa/robosys2023.git
-```
 * 実行例
 ```
 seq 3 | ./plus
 Sum: 6 ,Multiplication: 6
+```
+
+## 導入方法 ##
+* 下記コマンドを実行してください.
+```
+git clone https://github.com/sushiizawa/robosys2023.git
 ```
 
 ## test.bash ##
