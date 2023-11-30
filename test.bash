@@ -15,6 +15,6 @@ out=$(seq 5 | ./plus)
 [ "${out}" = " Sum: 15 ,Multiplication: 120" ] || ng ${LINENO}
 [ "$res" = 0 ] && echo OK
 
-exit $res
+  exit $res
 
 

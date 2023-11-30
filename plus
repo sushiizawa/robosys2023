@@ -6,11 +6,12 @@ import sys
 ans = 0 
 ans_s = 1
 
+
 for line in sys.stdin:
     try:
         ans += int(line)
         ans_s *= int(line)
-        
+
     except:
         ans += float(line)
         ans_s *= float(line)
